@@ -1,0 +1,914 @@
+{
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S01E04.1080p.BluRay.x264-BORDURE/yellowjackets.s01e04.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772538558.4375277,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E06.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s02e06.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772543912.3098352,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Futurama.S07E24.720p.HDTV.x264-EVOLVE/futurama.s07e24.720p.hdtv.x264-evolve.rar": {
+        "size": 50000000,
+        "mtime": 1772549976.0308077,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Severance.S01E08.1080p.BluRay.x264-BORDURE/severance.s01e08.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772550299.465116,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Severance.S01E05.1080p.BluRay.x264-BORDURE/severance.s01e05.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772551283.2867992,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S05E03.1080p.BluRay.x264-BORDURE/rick.and.morty.s05e03.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772546260.8870988,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S01E02.1080p.BluRay.x264-BORDURE/yellowjackets.s01e02.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772538801.1076188,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E01.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s02e01.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772543298.1123195,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S04E10.FiNAL.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s04e10.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772548465.9759848,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S06E08.1080p.BluRay.x264-STORiES/rick.and.morty.s06e08.1080p.bluray.x264-stories.rar": {
+        "size": 50000000,
+        "mtime": 1772548175.3685951,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S05E02.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s05e02.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772543510.6918054,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Futurama.S07E09.720p.HDTV.x264-IMMERSE/futurama.s07e09.720p.hdtv.x264-immerse.rar": {
+        "size": 50000000,
+        "mtime": 1772542046.4661496,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S07E05.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s07e05.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772544601.0953574,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Fallout.S01E03.1080p.BluRay.x264-BROADCAST/fallout.s01e03.1080p.bluray.x264-broadcast.rar": {
+        "size": 150000000,
+        "mtime": 1772548384.5684638,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E03.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s02e03.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772544744.7687674,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E03.1080p.BluRay.x264-YELLOWBiRD/Subs/rick.and.morty.s02e03.1080p.bluray.x264-yellowbird_subs.rar": {
+        "size": 1330715,
+        "mtime": 1772544686.4256048,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S03E06.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s03e06.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772545824.1202955,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E05.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s02e05.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772544641.4705217,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E05.1080p.BluRay.x264-YELLOWBiRD/Subs/rick.and.morty.s02e05.1080p.bluray.x264-yellowbird_subs.rar": {
+        "size": 1298175,
+        "mtime": 1772544567.0687964,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S07E02.1080p.BluRay.x264-BORDURE/rick.and.morty.s07e02.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772545122.3858662,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Futurama.S07E25.720p.HDTV.x264-EVOLVE/futurama.s07e25.720p.hdtv.x264-evolve.rar": {
+        "size": 50000000,
+        "mtime": 1772549901.2149482,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S07E01.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s07e01.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772544691.9299657,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S01E11.1080p.BluRay.x264-DAA/daa-rick.and.morty.s01e11-1080p.rar": {
+        "size": 50000000,
+        "mtime": 1772543965.343132,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E09.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s02e09.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772544571.8813152,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S03E08.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s03e08.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772545028.9537265,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Breaking.Bad.S05E12.720p.HDTV.x264-EVOLVE/breaking.bad.s05e12.720p.hdtv.x264-evolve.rar": {
+        "size": 50000000,
+        "mtime": 1772542832.6474106,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S01E09.1080p.BluRay.x264-DAA/daa-rick.and.morty.s01e09-1080p.rar": {
+        "size": 50000000,
+        "mtime": 1772542782.3524566,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Andor.S01E08.1080p.BluRay.x264-BORDURE/andor.s01e08.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772554848.4662337,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S01E07.1080p.BluRay.x264-DAA/daa-rick.and.morty.s01e07-1080p.rar": {
+        "size": 50000000,
+        "mtime": 1772542758.1316924,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Futurama.S07E18.REPACK.720p.HDTV.x264-IMMERSE/futurama.s07e18.repack.720p.hdtv.x264-immerse.rar": {
+        "size": 50000000,
+        "mtime": 1772546103.52499,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S02E05.1080p.BluRay.x264-BORDURE/yellowjackets.s02e05.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772539395.2342205,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S03E04.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s03e04.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772545212.0265248,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Fallout.S01E04.720p.BluRay.x264-BROADCAST/fallout.s01e04.720p.bluray.x264-broadcast.rar": {
+        "size": 100000000,
+        "mtime": 1772545452.0178268,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Andor.S01E11.1080p.BluRay.x264-BORDURE/andor.s01e11.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772549939.1609519,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S08E07.1080p.BluRay.x264-MORTYRiCK/rick.and.morty.s08e07.1080p.bluray.x264-mortyrick.rar": {
+        "size": 50000000,
+        "mtime": 1772552304.3400185,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S02E04.1080p.BluRay.x264-BORDURE/yellowjackets.s02e04.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772538951.1573293,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S01E01.1080p.BluRay.x264-BORDURE/yellowjackets.s01e01.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772537930.4416986,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Andor.S01E03.1080p.BluRay.x264-BORDURE/andor.s01e03.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772551898.901633,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S04E04.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s04e04.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772547730.0459788,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S05E08.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s05e08.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772543585.0296514,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S08E03.1080p.BluRay.x264-MORTYRiCK/rick.and.morty.s08e03.1080p.bluray.x264-mortyrick.rar": {
+        "size": 50000000,
+        "mtime": 1772552660.2235777,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S05E09.1080p.BluRay.x264-BORDURE/rick.and.morty.s05e09.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772543482.8527606,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S08E04.1080p.BluRay.x264-MORTYRiCK/rick.and.morty.s08e04.1080p.bluray.x264-mortyrick.rar": {
+        "size": 50000000,
+        "mtime": 1772552369.8544483,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S03E02.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s03e02.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772545306.5175955,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S02E08.1080p.BluRay.x264-BORDURE/yellowjackets.s02e08.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772539021.4657607,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Andor.S01E05.1080p.BluRay.x264-BORDURE/andor.s01e05.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772553120.5145094,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S05E01.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s05e01.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772543518.507607,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S04E05.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s04e05.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772548343.3428814,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S03E09.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s03e09.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772545126.422851,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Broad.City.S02E06.720p.HDTV.x264-KILLERS/broad.city.s02e06.720p.hdtv.x264-killers.rar": {
+        "size": 50000000,
+        "mtime": 1772540161.1435738,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S07E10.FiNAL.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s07e10.final.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772547403.983929,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Severance.S01E03.1080p.BluRay.x264-BORDURE/severance.s01e03.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772551370.7664266,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Andor.S01E10.1080p.BluRay.x264-BORDURE/andor.s01e10.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772553899.3210108,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Futurama.S07E26.720p.HDTV.x264-EVOLVE/futurama.s07e26.720p.hdtv.x264-evolve.rar": {
+        "size": 50000000,
+        "mtime": 1772542080.8555791,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S03E03.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s03e03.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772545779.7140293,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S04E03.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s04e03.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772547699.2851417,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Broad.City.S03E10.REAL.PROPER.720p.HDTV.x264-TURBO/broad.city.s03e10.720p.hdtv.x264-turbo.rar": {
+        "size": 50000000,
+        "mtime": 1772555204.6044025,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Futurama.S07E20.720p.HDTV.x264-EVOLVE/futurama.s07e20.720p.hdtv.x264-evolve.rar": {
+        "size": 50000000,
+        "mtime": 1772541569.4446945,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E04.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s02e04.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772545597.342023,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E04.1080p.BluRay.x264-YELLOWBiRD/Subs/rick.and.morty.s02e04.1080p.bluray.x264-yellowbird_subs.rar": {
+        "size": 1272821,
+        "mtime": 1772545593.374984,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S01E05.1080p.BluRay.x264-DAA/daa-rick.and.morty.s01e05-1080p.rar": {
+        "size": 50000000,
+        "mtime": 1772542267.975393,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S03E01.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s03e01.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772545262.8217442,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S02E03.1080p.BluRay.x264-BORDURE/yellowjackets.s02e03.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772539155.0469527,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Breaking.Bad.S05E06.iNTERNAL.720p.HDTV.x264-ORENJI/breaking.bad.s05e06.720p.hdtv.x264-orenji.rar": {
+        "size": 50000000,
+        "mtime": 1772541950.2697065,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S05E10.FiNAL.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s05e10.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772543351.8088517,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S07E06.1080p.BluRay.x264-BORDURE/rick.and.morty.s07e06.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772544521.6561463,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S06E07.1080p.BluRay.x264-STORiES/rick.and.morty.s06e07.1080p.bluray.x264-stories.rar": {
+        "size": 50000000,
+        "mtime": 1772548294.1992476,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Futurama.S07E14.720p.HDTV.x264-EVOLVE/futurama.s07e14.720p.hdtv.x264-evolve.rar": {
+        "size": 50000000,
+        "mtime": 1772554393.1918285,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Its.Always.Sunny.in.Philadelphia.S08E02.HDTV.x264-2HD/its.always.sunny.in.philadelphia.s08e02.hdtv.x264-2hd.rar": {
+        "size": 20000000,
+        "mtime": 1772546124.7067645,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S01E03.1080p.BluRay.x264-BORDURE/yellowjackets.s01e03.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772538503.0461097,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S02E09.1080p.BluRay.x264-BORDURE/yellowjackets.s02e09.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772541104.88114,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S08E09.1080p.BluRay.x264-MORTYRiCK/rick.and.morty.s08e09.1080p.bluray.x264-mortyrick.rar": {
+        "size": 50000000,
+        "mtime": 1772552368.9183986,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Severance.S01E02.1080p.BluRay.x264-BORDURE/severance.s01e02.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772552487.578897,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E08.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s02e08.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772543986.9833689,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E08.1080p.BluRay.x264-YELLOWBiRD/Subs/rick.and.morty.s02e08.1080p.bluray.x264-yellowbird_subs.rar": {
+        "size": 1364001,
+        "mtime": 1772543968.6038153,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Broad.City.S03E08.PROPER.720p.HDTV.x264-KILLERS/broad.city.s03e08.proper.720p.hdtv.x264-killers.rar": {
+        "size": 50000000,
+        "mtime": 1772540976.1636775,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Broad.City.S03E02.720p.HDTV.x264-KILLERS/broad.city.s03e02.720p.hdtv.x264-killers.rar": {
+        "size": 50000000,
+        "mtime": 1772559627.3865967,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Fallout.S01E05.1080p.BluRay.x264-BROADCAST/fallout.s01e05.1080p.bluray.x264-broadcast.rar": {
+        "size": 150000000,
+        "mtime": 1772549282.391443,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Its.Always.Sunny.in.Philadelphia.S07E12.1080p.BluRay.x264-MiMiC/its.always.sunny.in.philadelphia.s07e12.1080p.bluray.x264-mimic.rar": {
+        "size": 350000000,
+        "mtime": 1772546460.5153303,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Broad.City.S03E06.720p.HDTV.x264-KILLERS/broad.city.s03e06.720p.hdtv.x264-killers.rar": {
+        "size": 50000000,
+        "mtime": 1772537793.082031,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Breaking.Bad.S05E10.720p.HDTV.x264-IMMERSE/breaking.bad.s05e10.720p.hdtv.x264-immerse.rar": {
+        "size": 50000000,
+        "mtime": 1772542715.277757,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S07E07.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s07e07.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772544716.6843183,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S01E08.1080p.BluRay.x264-DAA/daa-rick.and.morty.s01e08-1080p.rar": {
+        "size": 50000000,
+        "mtime": 1772542730.1456938,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S01E10.1080p.BluRay.x264-DAA/daa-rick.and.morty.s01e10-1080p.rar": {
+        "size": 50000000,
+        "mtime": 1772543299.7947197,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S08E08.1080p.BluRay.x264-MORTYRiCK/rick.and.morty.s08e08.1080p.bluray.x264-mortyrick.rar": {
+        "size": 50000000,
+        "mtime": 1772550753.22453,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Breaking.Bad.S05E11.720p.HDTV.x264-IMMERSE/breaking.bad.s05e11.720p.hdtv.x264-immerse.rar": {
+        "size": 50000000,
+        "mtime": 1772542811.2778528,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S03E05.720p.BluRay.x264-YELLOWBiRD/rick.and.morty.s03e05.720p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772543881.7919068,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S06E05.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s06e05.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772545362.781743,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Andor.S01E06.1080p.BluRay.x264-BORDURE/andor.s01e06.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772554535.8563492,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Its.Always.Sunny.in.Philadelphia.S07E01.1080p.BluRay.x264-MiMiC/its.always.sunny.in.philadelphia.s07e01.1080p.bluray.x264-mimic.rar": {
+        "size": 350000000,
+        "mtime": 1772546449.1259685,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S04E01.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s04e01.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772548097.1466646,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Severance.S01E04.1080p.BluRay.x264-BORDURE/severance.s01e04.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772552173.939757,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Andor.S01E07.1080p.BluRay.x264-BORDURE/andor.s01e07.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772556331.345273,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S02E06.1080p.BluRay.x264-BORDURE/yellowjackets.s02e06.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772539293.918125,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Breaking.Bad.S05E15.720p.HDTV.x264-EVOLVE/breaking.bad.s05e15.720p.hdtv.x264-evolve.rar": {
+        "size": 50000000,
+        "mtime": 1772549170.225808,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S05E07.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s05e07.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772543525.7885923,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S07E09.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s07e09.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772544637.7516298,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S05E04.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s05e04.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772543610.1797955,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Breaking.Bad.S05E07.720p.HDTV.x264-COMPULSiON/breaking.bad.s05e07.720p.hdtv.x264-compulsion.rar": {
+        "size": 50000000,
+        "mtime": 1772542245.5800197,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S01E04.1080p.BluRay.x264-DAA/daa-rick.and.morty.s01e04-1080p.rar": {
+        "size": 50000000,
+        "mtime": 1772541773.0153873,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Breaking.Bad.S05E13.720p.HDTV.x264-IMMERSE/breaking.bad.s05e13.720p.hdtv.x264-immerse.rar": {
+        "size": 50000000,
+        "mtime": 1772543072.359334,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E10.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s02e10.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772543869.70792,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E10.1080p.BluRay.x264-YELLOWBiRD/Subs/rick.and.morty.s02e10.1080p.bluray.x264-yellowbird_subs.rar": {
+        "size": 1260344,
+        "mtime": 1772543797.0567694,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S05E06.1080p.BluRay.x264-BORDURE/rick.and.morty.s05e06.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772546174.9013345,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Andor.S01E04.1080p.BluRay.x264-BORDURE/andor.s01e04.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772552985.9807022,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S04E08.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s04e08.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772548018.804738,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S08E02.1080p.BluRay.x264-MORTYRiCK/rick.and.morty.s08e02.1080p.bluray.x264-mortyrick.rar": {
+        "size": 50000000,
+        "mtime": 1772552771.60988,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S03E07.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s03e07.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772545109.690606,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S01E01.PROPER.720p.BluRay.x264-DAA/daa-rick.and.morty.s01e01-720p.rar": {
+        "size": 50000000,
+        "mtime": 1772545402.9969864,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S06E03.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s06e03.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772544686.1841033,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S01E10.1080p.BluRay.x264-BORDURE/yellowjackets.s01e10.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772539004.929993,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Breaking.Bad.S05E14.720p.HDTV.x264-IMMERSE/breaking.bad.s05e14.720p.hdtv.x264-immerse.rar": {
+        "size": 50000000,
+        "mtime": 1772549105.7941513,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Futurama.S07E17.PROPER.720p.HDTV.x264-EVOLVE/futurama.s07e17.proper.720p.hdtv.x264-evolve.rar": {
+        "size": 50000000,
+        "mtime": 1772552147.315948,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E02.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s02e02.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772549388.5103166,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E02.1080p.BluRay.x264-YELLOWBiRD/Subs/rick.and.morty.s02e02.1080p.bluray.x264-yellowbird_subs.rar": {
+        "size": 1185595,
+        "mtime": 1772549265.9398534,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S02E07.1080p.BluRay.x264-BORDURE/yellowjackets.s02e07.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772540085.9429657,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Futurama.S07E19.720p.HDTV.x264-EVOLVE/futurama.s07e19.720p.hdtv.x264-evolve.rar": {
+        "size": 50000000,
+        "mtime": 1772549847.8516982,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E07.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s02e07.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772549209.7351308,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S02E07.1080p.BluRay.x264-YELLOWBiRD/Subs/rick.and.morty.s02e07.1080p.bluray.x264-yellowbird_subs.rar": {
+        "size": 1300824,
+        "mtime": 1772549113.0845678,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Severance.S01E01.1080p.BluRay.x264-BORDURE/severance.s01e01.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772551942.5530043,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S08E05.1080p.BluRay.x264-MORTYRiCK/rick.and.morty.s08e05.1080p.bluray.x264-mortyrick.rar": {
+        "size": 50000000,
+        "mtime": 1772552703.5112064,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Breaking.Bad.S05E09.720p.HDTV.x264-IMMERSE/breaking.bad.s05e09.720p.hdtv.x264-immerse.rar": {
+        "size": 50000000,
+        "mtime": 1772542759.0513892,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Its.Always.Sunny.in.Philadelphia.S07E11.1080p.BluRay.x264-MiMiC/its.always.sunny.in.philadelphia.s07e11.1080p.bluray.x264-mimic.rar": {
+        "size": 300000000,
+        "mtime": 1772546461.8949282,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S07E08.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s07e08.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772548260.9845953,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Broad.City.S03E03.720p.HDTV.x264-MiNDTHEGAP/broad.city.s03e03.720p.hdtv.x264-mtg.rar": {
+        "size": 50000000,
+        "mtime": 1772539041.8743677,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S04E07.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s04e07.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772545944.1905415,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S03E10.1080p.BluRay.x264-YELLOWBiRD/rick.and.morty.s03e10.1080p.bluray.x264-yellowbird.rar": {
+        "size": 50000000,
+        "mtime": 1772545282.5449708,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S08E10.1080p.BluRay.x264-MORTYRiCK/rick.and.morty.s08e10.1080p.bluray.x264-mortyrick.rar": {
+        "size": 50000000,
+        "mtime": 1772552354.0541525,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S02E01.1080p.BluRay.x264-BORDURE/yellowjackets.s02e01.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772540086.9200284,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S06E06.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s06e06.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772544163.3225286,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S04E06.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s04e06.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772548096.7853787,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S06E04.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s06e04.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772545310.910777,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S06E01.iNTERNAL.1080p.BluRay.x264-STORiES/rick.and.morty.s06e01.internal.1080p.bluray.x264-stories.rar": {
+        "size": 50000000,
+        "mtime": 1772547760.5511494,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Severance.S01E09.1080p.BluRay.x264-BORDURE/severance.s01e09.1080p.bluray.x264-bordure.rar": {
+        "size": 100000000,
+        "mtime": 1772550839.2425144,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S01E02.1080p.BluRay.x264-DAA/daa-rick.and.morty.s01e02-1080p.rar": {
+        "size": 50000000,
+        "mtime": 1772541850.4747746,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S01E06.1080p.BluRay.x264-DAA/daa-rick.and.morty.s01e06-1080p.rar": {
+        "size": 50000000,
+        "mtime": 1772542364.5639381,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Its.Always.Sunny.in.Philadelphia.S07E13.1080p.BluRay.x264-MiMiC/its.always.sunny.in.philadelphia.s07e13.1080p.bluray.x264-mimic.rar": {
+        "size": 350000000,
+        "mtime": 1772546370.6447732,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Severance.S01E07.1080p.BluRay.x264-BORDURE/severance.s01e07.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772551869.9337935,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Broad.City.S03E09.720p.HDTV.x264-FLEET/broad.city.s03e09.720p.hdtv.x264-fleet.rar": {
+        "size": 50000000,
+        "mtime": 1772559439.9834156,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S06E10.1080p.BluRay.x264-STORiES/rick.and.morty.s06e10.1080p.bluray.x264-stories.rar": {
+        "size": 50000000,
+        "mtime": 1772548470.725165,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S08E06.1080p.BluRay.x264-MORTYRiCK/rick.and.morty.s08e06.1080p.bluray.x264-mortyrick.rar": {
+        "size": 50000000,
+        "mtime": 1772551648.6618469,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Yellowjackets.S02E02.1080p.BluRay.x264-BORDURE/yellowjackets.s02e02.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772539578.2718425,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Futurama.S07E21.720p.HDTV.x264-EVOLVE/futurama.s07e21.720p.hdtv.x264-evolve.rar": {
+        "size": 50000000,
+        "mtime": 1772549993.469005,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Severance.S01E06.1080p.BluRay.x264-BORDURE/severance.s01e06.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772552544.9090362,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S04E02.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s04e02.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772547857.4035366,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S06E02.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s06e02.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772548342.5845716,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S06E09.1080p.BluRay.x264-STORiES/rick.and.morty.s06e09.1080p.bluray.x264-stories.rar": {
+        "size": 50000000,
+        "mtime": 1772548211.9423902,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Breaking.Bad.S04E13.720p.HDTV.x264-ORENJI/breaking.bad.s04e13.720p.hdtv.x264-orenji.rar": {
+        "size": 50000000,
+        "mtime": 1772541967.9340546,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S04E09.MULTi.1080p.BluRay.x264-SODAPOP/rick.and.morty.s04e09.multi.1080p.bluray.x264-sodapop.rar": {
+        "size": 50000000,
+        "mtime": 1772548251.8881195,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S05E05.1080p.BluRay.x264-BORDURE/rick.and.morty.s05e05.1080p.bluray.x264-bordure.rar": {
+        "size": 50000000,
+        "mtime": 1772545998.2689028,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Futurama.S07E15.720p.HDTV.x264-EVOLVE/futurama.s07e15.720p.hdtv.x264-evolve.rar": {
+        "size": 50000000,
+        "mtime": 1772541680.5255218,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    },
+    "/mnt/smbshare/plex/downloads/Rick.and.Morty.S08E01.1080p.BluRay.x264-MORTYRiCK/rick.and.morty.s08e01.1080p.bluray.x264-mortyrick.rar": {
+        "size": 50000000,
+        "mtime": 1772550871.7907274,
+        "first_seen": 1772656277.4363742,
+        "last_changed": 1772656277.4363742
+    }
+}
