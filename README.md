@@ -1,8 +1,65 @@
 # Unzipper That Works
 
-This project provides a Python script to automatically monitor a downloads directory for completed archive files, extract them, and then clean up the old archives after a specified period.
+This project provides a robust Python script to automatically monitor a directory for downloaded archives, extract them once they are complete, and then clean up the original archive files after a configurable period.
 
-This script determines if a file is "fully downloaded" by checking its size and modification time. A file is considered complete and ready for extraction if its size and modification time have not changed for a configurable period (default: 120 seconds).
+It is designed to be resilient, ensuring that it only extracts files that have finished downloading. This is achieved by monitoring file size and modification times, preventing interference with ongoing downloads.
+
+## How It Works
+
+The script operates in a clear, sequential process designed to be run periodically as a service.
+
+### 1. File Stability Check
+
+The core logic of this script revolves around determining if an archive is "fully downloaded" and ready for extraction. To do this, it maintains a state file (`file_states.json`) that tracks the properties of archives in the download directory.
+
+- **New Files:** When a new archive (e.g., `.zip`, `.rar`) is detected, it is added to the state file with its current size, modification time, and a timestamp.
+- **Monitoring:** On subsequent runs, the script checks if the file's size or modification time has changed. If it has, the file is considered "in-progress," and the script updates its state and moves on.
+- **Stability Threshold:** A file is only considered "stable" and ready for extraction if its size and modification time have not changed for a specific duration (default: 120 seconds). This prevents the script from trying to extract a file that is still being written to disk.
+
+### 2. Extraction
+
+Once an archive is deemed stable, the extraction process begins:
+
+- **Destination:** The script creates a new folder in the same directory, named after the archive file (without the extension).
+- **Extraction:** It uses the `patoolib` library to handle the extraction, which supports a wide range of formats like `.zip`, `.rar`, `.7z`, and more.
+- **Marking as Complete:** After a successful extraction, the script creates a marker file (e.g., `MyArchive.zip.gemini_extracted_marker`). This file signals that the archive has been processed and prevents it from being extracted again on future runs.
+
+### 3. Old Archive Cleanup
+
+To prevent the download directory from filling up with redundant archives, a cleanup process runs automatically:
+
+- **Age Limit:** The script scans for marker files older than a configurable number of days (default: 30 days).
+- **Deletion:** If an extracted archive is older than the limit, the script deletes both the original archive file and its associated marker file, freeing up space.
+
+## Log Examples
+
+The script provides detailed logs to show its progress. Here are some examples of what you might see in the systemd journal or when running the script manually.
+
+**A new archive is detected and monitored:**
+```
+INFO: New archive detected: /mnt/smbshare/plex/downloads/NewShow.S01E01.zip. Monitoring for stability.
+```
+
+**An archive is still being downloaded:**
+```
+INFO: File is still changing: /mnt/smbshare/plex/downloads/NewShow.S01E01.zip
+```
+
+**An archive becomes stable and is extracted:**
+```
+INFO: File is stable: /mnt/smbshare/plex/downloads/NewShow.S01E01.zip (stable for 125 seconds)
+INFO: Found 1 stable archives to process for extraction.
+INFO: Attempting to extract: /mnt/smbshare/plex/downloads/NewShow.S01E01.zip
+INFO: Successfully extracted /mnt/smbshare/plex/downloads/NewShow.S01E01.zip to /mnt/smbshare/plex/downloads/NewShow.S01E01
+```
+
+**An old, extracted archive is cleaned up:**
+```
+INFO: Starting old archive cleanup process.
+INFO: Deleting old archive: /mnt/smbshare/plex/downloads/OldMovie.rar (extracted on 2023-10-26)
+INFO: Removed /mnt/smbshare/plex/downloads/OldMovie.rar and /mnt/smbshare/plex/downloads/OldMovie.rar.gemini_extracted_marker
+INFO: Old archive cleanup process finished.
+```
 
 ## Features
 
