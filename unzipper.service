@@ -3,12 +3,12 @@ Description=Automated Unzipper for Downloads
 After=network.target
 
 [Service]
-ExecStart=/home/oliver/unzipper-venv/bin/python3 /mnt/smbshare/plex/downloads/unzipper-that-works/unzipper.py
-WorkingDirectory=/mnt/smbshare/plex/downloads/unzipper-that-works
+ExecStart=__VENV_PATH__/bin/python3 __WORKING_DIR__/unzipper.py
+WorkingDirectory=__WORKING_DIR__
 StandardOutput=journal
 StandardError=journal
-User=oliver
-Group=oliver
+User=__USER__
+Group=__GROUP__
 # Optional: Restart if the script fails
 Restart=on-failure
 RestartSec=5
